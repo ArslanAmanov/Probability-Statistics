@@ -1,2 +1,2 @@
-# Probability-Statistics
+# Probability & Statistics
 zero to hero
